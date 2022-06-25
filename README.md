@@ -1,2 +1,2 @@
 # Python Dersler
-- ##### Asal Sayı Bulma
+- ##### Asal Sayı Bulma Programı
