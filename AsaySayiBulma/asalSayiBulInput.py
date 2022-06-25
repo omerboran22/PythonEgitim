@@ -1,5 +1,5 @@
 def asalSayiBul():
-  limit =int(input("asal Sayı Sınırını Gir : "))
+  limit =int(input("asal Sayı Sınırını Gir Lütfen : "))
   for i in range(2,limit):
     kontrol=0
     for a in range(2,i):
